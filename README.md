@@ -21,7 +21,7 @@ Largely organised by CS Focus Areas
 * [Technical Interviews *and other tips*](README.md#technical-interviews)
 * [Physics and Mathematics](README.md#physics-and-maths), because we all have to take them in our degree requirements
 * [Information Systems Modules](README.md#information-systems-modules)
-* [Other NUS Modules](README.md#others-nus-modules): GEM/ SS modules
+* [Other NUS Modules](README.md#other-nus-modules): GEM/ SS modules
 * [Others](README.md#others): Free Academic Resources, cool coding-related links, and some troubleshoots
 * [Building the list](README.md#building-the-list)
 
@@ -117,12 +117,17 @@ Largely organised by CS Focus Areas
 ##### Learning other basics for Programme Requirements
 * **CS2100 Computer Organisation** 
   * [AY2014/2015 Website by Aaron Tan](http://www.comp.nus.edu.sg/~cs2100/)
+  * [CS2100 Final Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/CS2100%20Final%20CheatSheet.docx)
+  * [CS2100 Midterm Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/CS2100%20Midterm%20CheatSheet.docx)
+
 * **CS2106 Introduction to Operating Systems**
   * [2011 Course Page by Prof Ooi Wei Tsang](http://blog.nus.edu.sg/cs2106/about/)
   * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 
 ### Algorithms and Theory
+* **CS2040 Data Structures and Algorithms**
+  * [CS2040 Summary Notes](https://github.com/ChrisKheng/Academics/blob/master/CS2040%20Summary.docx)
 * **CS3230 Design and Analysis of Algorithms** 
   * [The 2010 Version](http://www.comp.nus.edu.sg/~sanjay/cs3230.html)
   * [MIT Introduction to Algorithms Book. Also the textbook used in CS3230.](http://syedwaqarahmad.webs.com/documents/t._cormen_-_introduction_to_algorithms_3rd_edition.pdf)
@@ -411,10 +416,14 @@ Largely organised by CS Focus Areas
 * **MA1521 Calculus for Computing** 
   * [Extra Resources (in Chinese)](https://www.dropbox.com/s/k7sflzv5z67ye29/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%8B%E5%80%9A%E5%A4%A9%E5%AE%9D%E5%89%91.pdf?dl=0)
   * [Final Exam Helpsheet, NWS's Syllabus](https://www.dropbox.com/s/ec4dgu7v7grima4/MA1521%20Final%20Exam%20Helpsheet%20v3-public.pdf?dl=0)
+  * [Final Exam Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1521%20Finalised%20Cheatsheet.pdf)
 * **MA1101R Linear Algebra I** 
   * Textbook: Linear Algebra: Concepts and Techniques on Euclidean Spaces by Ng Kah Loon. Can only buy at NUS Co-Op
   * [A textbook from UBC that serves its purpose](http://www.math.ubc.ca/~carrell/NB.pdf)
   * [Stanford CS229 Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+  * [Final Exam Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1101R%20Final%20Cheatsheet.docx)
+  * [Lab Quiz Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1101R%20Final%20Cheatsheet.docx)
+  
 * **MA2213 Numerical Analysis** 
   * [Numerical Methods in Matlab](http://www.math.ohiou.edu/courses/math3600/book.pdf)
   * [Introduction to Numerical Analysis, MIT OpenCourseWare Spring 2012](http://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
@@ -464,6 +473,8 @@ Largely organised by CS Focus Areas
 * **GEK1521 Physics In the Life Sciences** 
   * [Course from Harveford College](https://www.haverford.edu/physics/Amador/links/IPLSResources.php) 
   * [Course from McGill](http://www.physics.mcgill.ca/~moore/P101/Lectures/)
+* **GET1028 Logic** 
+  * [GET1028 Final Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/GET1028%20Cheatsheet.docx)
 
 #### Singapore Studies modules
 * [SSA2204 Nation Building in Singapore](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!83053&authkey=!AB5w0sZqImAFAq8&ithint=folder%2cpdf)
